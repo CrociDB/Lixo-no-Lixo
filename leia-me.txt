@@ -1,16 +1,16 @@
 Lixo no Lixo
 ----------------------------------------------
 
-Lixo no Lixo é  um  jogo  que tem a  missão de
-conscientizar  as  pessoas  de  quão  errado é
+Lixo no Lixo ï¿½  um  jogo  que tem a  missï¿½o de
+conscientizar  as  pessoas  de  quï¿½o  errado ï¿½
 jogar lixo nas ruas.
 
-Ainda em  desenvolvimento, esta  é  apenas uma
+Ainda em  desenvolvimento, esta  ï¿½  apenas uma
 demo.
 
-Se  o   jogo   não  rodar,  execute  o arquivo
-install.exe  que  irá  instalar as bibliotecas
-necessáras  para  rodar  o  jogo. Ou  baixe  o
+Se  o   jogo   nï¿½o  rodar,  execute  o arquivo
+install.exe  que  irï¿½  instalar as bibliotecas
+necessï¿½ras  para  rodar  o  jogo. Ou  baixe  o
 arquivo aqui:
 
 http://www.microsoft.com/downloads/details.aspx?FamilyID=9b2da534-3e03-4391-8a4d-074b9f2bc1bf&displaylang=en
@@ -19,4 +19,4 @@ Obrigado por jogar! =)
 
 ----------------------------------------------
 				    by CrociDB
-		  http://crocidb.wordpress.com
+		            http://crocidb.com
